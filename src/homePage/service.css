@@ -1,0 +1,17 @@
+.services{
+    display: flex;
+    margin: 1rem 1.5rem;
+    justify-content: center;
+   
+}
+.checkBalance{
+   margin-left:0%;
+    
+}
+.makeTransfer{
+    margin: 0 auto;
+}
+.viewTransaction{
+    margin-right: 0%;
+
+}

@@ -1,0 +1,32 @@
+.ABaLogo{
+    position: absolute;
+    left:1.5%;
+}
+.navItems{
+    display:flex;
+    width:50%;
+    margin: auto 35%;
+    color:#F2C519;
+    
+        
+    }
+
+.navItem{
+    margin-left: 3%;
+    color: #F2C519;
+    margin-top:4% ;
+    text-decoration: none;
+}
+.navItem:hover,
+.navItem.active,
+.AbaWeb:hover{
+    color:white;
+}
+.AbaWeb{
+    position: absolute;
+    top:auto;
+    right: 5%;
+    color: #F2C519;
+    text-decoration: none;
+    
+}
